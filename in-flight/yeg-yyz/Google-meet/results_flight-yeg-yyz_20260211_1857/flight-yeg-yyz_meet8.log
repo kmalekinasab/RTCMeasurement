@@ -1,0 +1,195 @@
+[*] Config Loaded: Name='flight-edm-tor-Meet', Duration=100s
+[*] Joining: [MEETING_LINK_REMOVED]
+[*] Input field found. Typing name: flight-edm-tor-Meet
+[*] Looking for Join button...
+    [+] JOIN CLICKED (XPath)!
+
+[*] Starting continuous monitoring for 100 seconds...
+[LOG] Time: 0s | RTT: 175.00 ms
+[LOG] Time: 1s | RTT: 58.00 ms
+[LOG] Time: 2s | RTT: 58.00 ms
+[LOG] Time: 3s | RTT: 52.00 ms
+[LOG] Time: 4s | RTT: 52.00 ms
+[LOG] Time: 5s | RTT: 52.00 ms
+[LOG] Time: 6s | RTT: 58.00 ms
+[LOG] Time: 7s | RTT: 58.00 ms
+[LOG] Time: 8s | RTT: 67.00 ms
+[LOG] Time: 9s | RTT: 67.00 ms
+[LOG] Time: 10s | RTT: 67.00 ms
+[LOG] Time: 11s | RTT: 76.00 ms
+[LOG] Time: 12s | RTT: 76.00 ms
+[LOG] Time: 13s | RTT: 76.00 ms
+[LOG] Time: 14s | RTT: 69.00 ms
+[LOG] Time: 15s | RTT: 69.00 ms
+[LOG] Time: 16s | RTT: 53.00 ms
+[LOG] Time: 17s | RTT: 53.00 ms
+[LOG] Time: 18s | RTT: 53.00 ms
+[LOG] Time: 19s | RTT: 58.00 ms
+[LOG] Time: 20s | RTT: 58.00 ms
+[LOG] Time: 21s | RTT: 82.00 ms
+[LOG] Time: 22s | RTT: 82.00 ms
+[LOG] Time: 23s | RTT: 82.00 ms
+[LOG] Time: 24s | RTT: 67.00 ms
+[LOG] Time: 25s | RTT: 67.00 ms
+[LOG] Time: 26s | RTT: 67.00 ms
+[LOG] Time: 27s | RTT: 60.00 ms
+[LOG] Time: 28s | RTT: 60.00 ms
+[LOG] Time: 29s | RTT: 55.00 ms
+[LOG] Time: 30s | RTT: 55.00 ms
+[LOG] Time: 31s | RTT: 55.00 ms
+[LOG] Time: 32s | RTT: 56.00 ms
+[LOG] Time: 33s | RTT: 56.00 ms
+[LOG] Time: 34s | RTT: 56.00 ms
+[LOG] Time: 35s | RTT: 58.00 ms
+[LOG] Time: 36s | RTT: 58.00 ms
+[LOG] Time: 37s | RTT: 57.00 ms
+[LOG] Time: 38s | RTT: 57.00 ms
+[LOG] Time: 39s | RTT: 57.00 ms
+[LOG] Time: 40s | RTT: 52.00 ms
+[LOG] Time: 41s | RTT: 52.00 ms
+[LOG] Time: 42s | RTT: 65.00 ms
+[LOG] Time: 43s | RTT: 65.00 ms
+[LOG] Time: 44s | RTT: 65.00 ms
+[LOG] Time: 45s | RTT: 53.00 ms
+[LOG] Time: 46s | RTT: 53.00 ms
+[LOG] Time: 47s | RTT: 53.00 ms
+[LOG] Time: 48s | RTT: 66.00 ms
+[LOG] Time: 49s | RTT: 66.00 ms
+[LOG] Time: 50s | RTT: 70.00 ms
+[LOG] Time: 51s | RTT: 70.00 ms
+[LOG] Time: 52s | RTT: 70.00 ms
+[LOG] Time: 53s | RTT: 76.00 ms
+[LOG] Time: 55s | RTT: 76.00 ms
+[LOG] Time: 56s | RTT: 76.00 ms
+[LOG] Time: 57s | RTT: 69.00 ms
+[LOG] Time: 58s | RTT: 69.00 ms
+[LOG] Time: 59s | RTT: 79.00 ms
+[LOG] Time: 60s | RTT: 79.00 ms
+[LOG] Time: 61s | RTT: 79.00 ms
+[LOG] Time: 62s | RTT: 59.00 ms
+[LOG] Time: 63s | RTT: 59.00 ms
+[LOG] Time: 64s | RTT: 104.00 ms
+[LOG] Time: 65s | RTT: 104.00 ms
+[LOG] Time: 66s | RTT: 104.00 ms
+[LOG] Time: 67s | RTT: 56.00 ms
+[LOG] Time: 68s | RTT: 56.00 ms
+[LOG] Time: 69s | RTT: 56.00 ms
+[LOG] Time: 70s | RTT: 58.00 ms
+[LOG] Time: 71s | RTT: 58.00 ms
+[LOG] Time: 72s | RTT: 53.00 ms
+[LOG] Time: 73s | RTT: 53.00 ms
+[LOG] Time: 74s | RTT: 53.00 ms
+[LOG] Time: 75s | RTT: 61.00 ms
+[LOG] Time: 76s | RTT: 61.00 ms
+[LOG] Time: 77s | RTT: 61.00 ms
+[LOG] Time: 78s | RTT: 66.00 ms
+[LOG] Time: 79s | RTT: 66.00 ms
+[LOG] Time: 80s | RTT: 56.00 ms
+[LOG] Time: 81s | RTT: 56.00 ms
+[LOG] Time: 82s | RTT: 56.00 ms
+[LOG] Time: 83s | RTT: 77.00 ms
+[LOG] Time: 84s | RTT: 77.00 ms
+[LOG] Time: 85s | RTT: 52.00 ms
+[LOG] Time: 86s | RTT: 52.00 ms
+[LOG] Time: 87s | RTT: 52.00 ms
+[LOG] Time: 88s | RTT: 68.00 ms
+[LOG] Time: 89s | RTT: 68.00 ms
+[LOG] Time: 90s | RTT: 68.00 ms
+[LOG] Time: 91s | RTT: 60.00 ms
+[LOG] Time: 92s | RTT: 60.00 ms
+[LOG] Time: 93s | RTT: 79.00 ms
+[LOG] Time: 94s | RTT: 79.00 ms
+[LOG] Time: 95s | RTT: 79.00 ms
+[LOG] Time: 96s | RTT: 62.00 ms
+[LOG] Time: 97s | RTT: 62.00 ms
+[LOG] Time: 98s | RTT: 73.00 ms
+[LOG] Time: 99s | RTT: 73.00 ms
+[*] Monitoring finished.
+
+SUCCESS! Remote IP: 74.125.250.253
+[*] Resolving Server Location...
+SUCCESS! Server Location: Mountain View, United States (Google LLC)
+
+[*] Running TCP MTR (Port 443)...
+Start: 2026-02-12T02:59:49+0000
+HOST: 29ebba978649                Loss%   Snt   Last   Avg  Best  Wrst StDev
+  1. AS???    172.17.0.1           0.0%    50    0.2   0.3   0.2   0.4   0.1
+  2. AS???    10.1.0.1             0.0%    50    8.8   3.5   1.9  13.6   2.1
+  3. AS???    100.64.0.1           0.0%    50   28.6  31.1  19.7  92.3  12.6
+  4. AS???    172.16.252.94        0.0%    50   32.3  28.9  20.8  48.4   6.6
+  5. AS???    ???                 100.0    50    0.0   0.0   0.0   0.0   0.0
+  6. AS14593  206.224.67.162       0.0%    50   32.3  28.3  20.9  72.8   8.8
+        206.224.67.160                   
+     AS14593  206.224.67.160
+        206.224.67.156                   
+     AS14593  206.224.67.156
+        206.224.67.158                   
+     AS14593  206.224.67.158
+  7. AS3257   63.141.197.149       0.0%    50   29.1  27.9  18.9  48.7   7.1
+  8. AS3257   89.149.131.242       0.0%    50   30.3  57.0  26.6 1083. 148.3
+  9. AS3257   98.124.174.122       0.0%    50   34.4  57.5  27.2 1108. 151.9
+ 10. AS15169  142.251.226.65       0.0%    50   35.2  38.2  26.4  71.6  10.7
+        192.178.249.239                  
+     AS15169  192.178.249.239
+        192.178.249.203                  
+     AS15169  192.178.249.203
+        192.178.249.227                  
+     AS15169  192.178.249.227
+ 11. AS15169  142.251.60.207       0.0%    50   38.3  36.9  27.3  57.9   7.3
+        142.251.231.245                  
+     AS15169  142.251.231.245
+        142.251.60.19                    
+     AS15169  142.251.60.19
+        142.251.231.69                   
+     AS15169  142.251.231.69
+        216.239.47.129                   
+     AS15169  216.239.47.129
+        209.85.255.173                   
+     AS15169  209.85.255.173
+        142.251.60.7                     
+     AS15169  142.251.60.7
+        142.251.231.247                  
+     AS15169  142.251.231.247
+        142.251.231.251                  
+     AS15169  142.251.231.251
+ 12. AS???    ???                 100.0    50    0.0   0.0   0.0   0.0   0.0
+
+[*] Running UDP MTR...
+Start: 2026-02-12T03:00:47+0000
+HOST: 29ebba978649                Loss%   Snt   Last   Avg  Best  Wrst StDev
+  1. AS???    172.17.0.1           0.0%    50    0.1   0.1   0.1   0.2   0.0
+  2. AS???    10.1.0.1             0.0%    50    8.0   4.4   2.1  33.2   4.6
+  3. AS???    100.64.0.1           0.0%    50   55.4  28.3  20.1  55.4   6.6
+  4. AS???    172.16.252.94        0.0%    50   25.2  26.7  18.1  47.7   6.8
+  5. AS14593  206.224.73.82        0.0%    50   30.2  30.3  18.7  53.9   8.2
+        206.224.73.80                    
+     AS14593  206.224.73.80
+        206.224.73.78                    
+     AS14593  206.224.73.78
+        206.224.73.76                    
+     AS14593  206.224.73.76
+  6. AS14593  206.224.67.162       0.0%    50   29.4  30.2  18.8  49.4   7.2
+        206.224.67.158                   
+     AS14593  206.224.67.158
+        206.224.67.156                   
+     AS14593  206.224.67.156
+        206.224.67.160                   
+     AS14593  206.224.67.160
+  7. AS3257   63.141.197.149       0.0%    50   22.1  30.7  19.8  74.0   9.6
+  8. AS3257   89.149.131.242       0.0%    50   39.3  36.4  26.1  55.8   6.8
+  9. AS3257   98.124.174.122       0.0%    50   51.4  36.8  27.6  60.9   7.2
+ 10. AS15169  192.178.249.203     86.0%    50   37.3  32.8  27.7  37.3   3.4
+        192.178.249.239                  
+     AS15169  192.178.249.239
+        192.178.249.227                  
+     AS15169  192.178.249.227
+        142.251.226.65                   
+     AS15169  142.251.226.65
+ 11. AS15169  142.251.231.245     86.0%    50   28.9  32.4  28.9  36.8   2.8
+        142.251.60.3                     
+     AS15169  142.251.60.3
+        142.251.60.209                   
+     AS15169  142.251.60.209
+        142.251.60.21                    
+     AS15169  142.251.60.21
+ 12. AS15169  74.125.250.253      86.0%    50   39.8  38.5  27.4  58.0  10.5

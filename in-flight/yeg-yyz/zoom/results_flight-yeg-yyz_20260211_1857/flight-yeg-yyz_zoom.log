@@ -1,0 +1,192 @@
+Start: 2026-02-12T03:07:37+0000
+HOST: ba049f1d48f2                Loss%   Snt   Last   Avg  Best  Wrst StDev
+  1. AS???    172.17.0.1           0.0%    50    0.2   0.2   0.2   0.4   0.0
+  2. AS???    10.1.0.1             0.0%    50    8.0  16.7   2.2 106.7  23.8
+  3. AS???    100.64.0.1           0.0%    50   27.9  39.7  19.7 170.5  26.7
+  4. AS???    172.16.252.94        0.0%    50   27.2  47.4  18.5 294.6  49.6
+  5. AS???    ???                 100.0    50    0.0   0.0   0.0   0.0   0.0
+  6. AS14593  206.224.67.152       0.0%    50   33.7  46.3  21.0 182.8  37.6
+        206.224.67.156                   
+     AS14593  206.224.67.156
+        206.224.67.160                   
+     AS14593  206.224.67.160
+        206.224.67.162                   
+     AS14593  206.224.67.162
+        206.224.67.148                   
+     AS14593  206.224.67.148
+        206.224.67.158                   
+     AS14593  206.224.67.158
+        206.224.67.154                   
+     AS14593  206.224.67.154
+        206.224.67.150                   
+     AS14593  206.224.67.150
+  7. AS3257   63.141.197.149       0.0%    50   80.3  44.9  18.7 116.6  25.3
+        62.115.144.26                    
+     AS1299   62.115.144.26
+  8. AS1299   62.115.123.243       0.0%    50   85.1  52.9  28.0  99.0  15.8
+        213.200.112.238                  
+     AS3257   213.200.112.238
+  9. AS3257   63.141.206.130      12.0%    50  107.4 487.0  47.9 7236. 1370.0
+        62.115.132.134                   
+     AS1299   62.115.132.134
+ 10. AS1299   62.115.136.201      52.0%    50   59.7  79.0  50.7 162.2  30.1
+ 11. AS1299   62.115.138.225      50.0%    50   92.9  67.7  49.0 130.8  17.8
+ 12. AS1299   62.115.12.1         46.0%    50  110.6  64.6  47.7 110.6  13.2
+ 13. AS???    ???                 100.0    50    0.0   0.0   0.0   0.0   0.0
+ 14. AS???    ???                 100.0    50    0.0   0.0   0.0   0.0   0.0
+ 15. AS30103  206.247.99.105      50.0%    50  296.2  82.4  50.4 296.2  54.6
+Start: 2026-02-12T03:08:36+0000
+HOST: ba049f1d48f2                Loss%   Snt   Last   Avg  Best  Wrst StDev
+  1. AS???    172.17.0.1           0.0%    50    0.2   0.1   0.1   0.3   0.0
+  2. AS???    10.1.0.1             0.0%    50    1.8  20.0   1.8 106.2  25.6
+  3. AS???    100.64.0.1           0.0%    50   32.8  42.0  20.5 100.8  17.1
+  4. AS???    172.16.252.94        2.0%    50   62.6  47.6  21.1 272.5  42.6
+  5. AS14593  206.224.73.78        0.0%    50   49.1  46.9  22.1 260.5  36.6
+        206.224.73.76                    
+     AS14593  206.224.73.76
+        206.224.73.80                    
+     AS14593  206.224.73.80
+        206.224.73.82                    
+     AS14593  206.224.73.82
+  6. AS14593  206.224.67.152       0.0%    50   18.6  52.1  18.6 219.0  43.6
+        206.224.67.148                   
+     AS14593  206.224.67.148
+        206.224.67.150                   
+     AS14593  206.224.67.150
+        206.224.67.158                   
+     AS14593  206.224.67.158
+        206.224.67.156                   
+     AS14593  206.224.67.156
+        206.224.67.162                   
+     AS14593  206.224.67.162
+        206.224.67.160                   
+     AS14593  206.224.67.160
+        206.224.67.154                   
+     AS14593  206.224.67.154
+  7. AS1299   62.115.144.26        0.0%    50   24.4  51.7  20.4 183.1  37.8
+        63.141.197.149                   
+     AS3257   63.141.197.149
+  8. AS3257   213.200.112.238      0.0%    50   58.1  71.3  30.8 174.0  35.5
+        62.115.123.243                   
+     AS1299   62.115.123.243
+  9. AS1299   62.115.132.134      44.0%    50   52.2  78.0  50.7 217.9  40.3
+        63.141.206.130                   
+     AS3257   63.141.206.130
+ 10. AS1299   62.115.136.201      54.0%    50   57.8  78.0  48.5 179.0  33.2
+ 11. AS1299   62.115.138.225      60.0%    50   61.6  82.9  54.6 172.7  30.7
+ 12. AS1299   62.115.12.1         76.0%    50   55.8  74.2  51.4 112.0  20.2
+ 13. AS???    ???                 100.0    50    0.0   0.0   0.0   0.0   0.0
+[*] Config Loaded: Name='flight-edm-tor-Zoom', Duration=100s
+[*] Launching Chrome for Zoom...
+[*] Joining URL: [MEETING_LINK_REMOVED]
+[*] Name entered: flight-edm-tor-Zoom
+[*] Inside meeting. Starting monitoring...
+[LOG] Time: 0s | RTT: 47.00 ms
+[LOG] Time: 1s | RTT: 62.00 ms
+[LOG] Time: 2s | RTT: 62.00 ms
+[LOG] Time: 3s | RTT: 61.00 ms
+[LOG] Time: 4s | RTT: 61.00 ms
+[LOG] Time: 5s | RTT: 61.00 ms
+[LOG] Time: 6s | RTT: 76.00 ms
+[LOG] Time: 7s | RTT: 76.00 ms
+[LOG] Time: 8s | RTT: 76.00 ms
+[LOG] Time: 9s | RTT: 54.00 ms
+[LOG] Time: 10s | RTT: 54.00 ms
+[LOG] Time: 11s | RTT: 93.00 ms
+[LOG] Time: 12s | RTT: 93.00 ms
+[LOG] Time: 13s | RTT: 93.00 ms
+[LOG] Time: 14s | RTT: 55.00 ms
+[LOG] Time: 15s | RTT: 55.00 ms
+[LOG] Time: 16s | RTT: 74.00 ms
+[LOG] Time: 17s | RTT: 74.00 ms
+[LOG] Time: 18s | RTT: 74.00 ms
+[LOG] Time: 19s | RTT: 53.00 ms
+[LOG] Time: 20s | RTT: 53.00 ms
+[LOG] Time: 21s | RTT: 53.00 ms
+[LOG] Time: 22s | RTT: 67.00 ms
+[LOG] Time: 23s | RTT: 67.00 ms
+[LOG] Time: 24s | RTT: 191.00 ms
+[LOG] Time: 25s | RTT: 191.00 ms
+[LOG] Time: 26s | RTT: 191.00 ms
+[LOG] Time: 27s | RTT: 50.00 ms
+[LOG] Time: 28s | RTT: 50.00 ms
+[LOG] Time: 29s | RTT: 55.00 ms
+[LOG] Time: 30s | RTT: 55.00 ms
+[LOG] Time: 31s | RTT: 55.00 ms
+[LOG] Time: 32s | RTT: 193.00 ms
+[LOG] Time: 33s | RTT: 193.00 ms
+[LOG] Time: 34s | RTT: 193.00 ms
+[LOG] Time: 35s | RTT: 54.00 ms
+[LOG] Time: 36s | RTT: 54.00 ms
+[LOG] Time: 37s | RTT: 64.00 ms
+[LOG] Time: 38s | RTT: 64.00 ms
+[LOG] Time: 39s | RTT: 64.00 ms
+[LOG] Time: 40s | RTT: 65.00 ms
+[LOG] Time: 41s | RTT: 65.00 ms
+[LOG] Time: 42s | RTT: 65.00 ms
+[LOG] Time: 43s | RTT: 172.00 ms
+[LOG] Time: 44s | RTT: 172.00 ms
+[LOG] Time: 45s | RTT: 58.00 ms
+[LOG] Time: 46s | RTT: 58.00 ms
+[LOG] Time: 47s | RTT: 58.00 ms
+[LOG] Time: 48s | RTT: 68.00 ms
+[LOG] Time: 49s | RTT: 68.00 ms
+[LOG] Time: 50s | RTT: 68.00 ms
+[LOG] Time: 51s | RTT: 207.00 ms
+[LOG] Time: 52s | RTT: 207.00 ms
+[LOG] Time: 53s | RTT: 54.00 ms
+[LOG] Time: 54s | RTT: 54.00 ms
+[LOG] Time: 55s | RTT: 54.00 ms
+[LOG] Time: 56s | RTT: 54.00 ms
+[LOG] Time: 57s | RTT: 54.00 ms
+[LOG] Time: 58s | RTT: 75.00 ms
+[LOG] Time: 59s | RTT: 75.00 ms
+[LOG] Time: 60s | RTT: 75.00 ms
+[LOG] Time: 61s | RTT: 196.00 ms
+[LOG] Time: 62s | RTT: 196.00 ms
+[LOG] Time: 63s | RTT: 196.00 ms
+[LOG] Time: 64s | RTT: 97.00 ms
+[LOG] Time: 65s | RTT: 97.00 ms
+[LOG] Time: 66s | RTT: 59.00 ms
+[LOG] Time: 67s | RTT: 59.00 ms
+[LOG] Time: 68s | RTT: 59.00 ms
+[LOG] Time: 69s | RTT: 53.00 ms
+[LOG] Time: 70s | RTT: 53.00 ms
+[LOG] Time: 71s | RTT: 56.00 ms
+[LOG] Time: 72s | RTT: 56.00 ms
+[LOG] Time: 73s | RTT: 56.00 ms
+[LOG] Time: 74s | RTT: 60.00 ms
+[LOG] Time: 75s | RTT: 60.00 ms
+[LOG] Time: 76s | RTT: 60.00 ms
+[LOG] Time: 77s | RTT: 63.00 ms
+[LOG] Time: 78s | RTT: 63.00 ms
+[LOG] Time: 79s | RTT: 61.00 ms
+[LOG] Time: 81s | RTT: 61.00 ms
+[LOG] Time: 82s | RTT: 61.00 ms
+[LOG] Time: 83s | RTT: 100.00 ms
+[LOG] Time: 84s | RTT: 100.00 ms
+[LOG] Time: 85s | RTT: 100.00 ms
+[LOG] Time: 86s | RTT: 74.00 ms
+[LOG] Time: 87s | RTT: 74.00 ms
+[LOG] Time: 88s | RTT: 71.00 ms
+[LOG] Time: 89s | RTT: 71.00 ms
+[LOG] Time: 90s | RTT: 71.00 ms
+[LOG] Time: 91s | RTT: 60.00 ms
+[LOG] Time: 92s | RTT: 60.00 ms
+[LOG] Time: 93s | RTT: 67.00 ms
+[LOG] Time: 94s | RTT: 67.00 ms
+[LOG] Time: 95s | RTT: 67.00 ms
+[LOG] Time: 96s | RTT: 107.00 ms
+[LOG] Time: 97s | RTT: 107.00 ms
+[LOG] Time: 98s | RTT: 107.00 ms
+[LOG] Time: 99s | RTT: 59.00 ms
+[*] Monitoring finished.
+
+SUCCESS! Remote IP: 206.247.99.105
+[*] Resolving Server Location...
+SUCCESS! Server Location: San Jose, United States (Zoom Video Communications, Inc)
+
+[*] Running TCP MTR (Port 443)...
+
+[*] Running UDP MTR...
+[*] Closing browser...
