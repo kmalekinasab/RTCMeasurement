@@ -1,0 +1,401 @@
+[*] Config Loaded: Name='flight-tor-edm-Teams', Duration=200s
+[*] Launching Chrome for Teams...
+[*] Joining URL: [MEETING_LINK_REMOVED]
+[*] Navigating Join Flow...
+[*] Looking for Join button...
+    [+] JOIN CLICKED!
+[*] Waiting for connection (20s)...
+[*] Starting continuous monitoring for 200 seconds...
+[LOG] Time: 0s | RTT: 253.00 ms | State: connected
+[LOG] Time: 1s | RTT: 253.00 ms | State: connected
+[LOG] Time: 2s | RTT: 130.00 ms | State: connected
+[LOG] Time: 3s | RTT: 130.00 ms | State: connected
+[LOG] Time: 4s | RTT: 135.00 ms | State: connected
+[LOG] Time: 5s | RTT: 135.00 ms | State: connected
+[LOG] Time: 6s | RTT: 103.00 ms | State: connected
+[LOG] Time: 7s | RTT: 103.00 ms | State: connected
+[LOG] Time: 8s | RTT: 103.00 ms | State: connected
+[LOG] Time: 10s | RTT: 106.00 ms | State: connected
+[LOG] Time: 11s | RTT: 106.00 ms | State: connected
+[LOG] Time: 12s | RTT: 142.00 ms | State: connected
+[LOG] Time: 13s | RTT: 142.00 ms | State: connected
+[LOG] Time: 14s | RTT: 142.00 ms | State: connected
+[LOG] Time: 15s | RTT: 138.00 ms | State: connected
+[LOG] Time: 16s | RTT: 138.00 ms | State: connected
+[LOG] Time: 17s | RTT: 126.00 ms | State: connected
+[LOG] Time: 18s | RTT: 126.00 ms | State: connected
+[LOG] Time: 20s | RTT: 113.00 ms | State: connected
+[LOG] Time: 21s | RTT: 113.00 ms | State: connected
+[LOG] Time: 22s | RTT: 113.00 ms | State: connected
+[LOG] Time: 23s | RTT: 144.00 ms | State: connected
+[LOG] Time: 24s | RTT: 144.00 ms | State: connected
+[LOG] Time: 25s | RTT: 149.00 ms | State: connected
+[LOG] Time: 26s | RTT: 149.00 ms | State: connected
+[LOG] Time: 27s | RTT: 149.00 ms | State: connected
+[LOG] Time: 28s | RTT: 122.00 ms | State: connected
+[LOG] Time: 29s | RTT: 122.00 ms | State: connected
+[LOG] Time: 30s | RTT: 149.00 ms | State: connected
+[LOG] Time: 31s | RTT: 149.00 ms | State: connected
+[LOG] Time: 33s | RTT: 149.00 ms | State: connected
+[LOG] Time: 34s | RTT: 120.00 ms | State: connected
+[LOG] Time: 35s | RTT: 120.00 ms | State: connected
+[LOG] Time: 36s | RTT: 164.00 ms | State: connected
+[LOG] Time: 37s | RTT: 164.00 ms | State: connected
+[LOG] Time: 38s | RTT: 164.00 ms | State: connected
+[LOG] Time: 39s | RTT: 157.00 ms | State: connected
+[LOG] Time: 40s | RTT: 157.00 ms | State: connected
+[LOG] Time: 41s | RTT: 136.00 ms | State: connected
+[LOG] Time: 42s | RTT: 136.00 ms | State: connected
+[LOG] Time: 44s | RTT: 139.00 ms | State: connected
+[LOG] Time: 45s | RTT: 139.00 ms | State: connected
+[LOG] Time: 46s | RTT: 139.00 ms | State: connected
+[LOG] Time: 47s | RTT: 144.00 ms | State: connected
+[LOG] Time: 48s | RTT: 144.00 ms | State: connected
+[LOG] Time: 49s | RTT: 182.00 ms | State: connected
+[LOG] Time: 50s | RTT: 182.00 ms | State: connected
+[LOG] Time: 51s | RTT: 182.00 ms | State: connected
+[LOG] Time: 52s | RTT: 173.00 ms | State: connected
+[LOG] Time: 53s | RTT: 173.00 ms | State: connected
+[LOG] Time: 54s | RTT: 154.00 ms | State: connected
+[LOG] Time: 55s | RTT: 154.00 ms | State: connected
+[LOG] Time: 57s | RTT: 154.00 ms | State: connected
+[LOG] Time: 58s | RTT: 197.00 ms | State: connected
+[LOG] Time: 59s | RTT: 197.00 ms | State: connected
+[LOG] Time: 60s | RTT: 139.00 ms | State: connected
+[LOG] Time: 61s | RTT: 139.00 ms | State: connected
+[LOG] Time: 62s | RTT: 139.00 ms | State: connected
+[LOG] Time: 63s | RTT: 112.00 ms | State: connected
+[LOG] Time: 64s | RTT: 112.00 ms | State: connected
+[LOG] Time: 65s | RTT: 122.00 ms | State: connected
+[LOG] Time: 66s | RTT: 122.00 ms | State: connected
+[LOG] Time: 67s | RTT: 122.00 ms | State: connected
+[LOG] Time: 68s | RTT: 122.00 ms | State: connected
+[LOG] Time: 70s | RTT: 122.00 ms | State: connected
+[LOG] Time: 71s | RTT: 120.00 ms | State: connected
+[LOG] Time: 72s | RTT: 120.00 ms | State: connected
+[LOG] Time: 73s | RTT: 158.00 ms | State: connected
+[LOG] Time: 74s | RTT: 158.00 ms | State: connected
+[LOG] Time: 75s | RTT: 158.00 ms | State: connected
+[LOG] Time: 76s | RTT: 142.00 ms | State: connected
+[LOG] Time: 77s | RTT: 142.00 ms | State: connected
+[LOG] Time: 78s | RTT: 130.00 ms | State: connected
+[LOG] Time: 79s | RTT: 130.00 ms | State: connected
+[LOG] Time: 80s | RTT: 130.00 ms | State: connected
+[LOG] Time: 81s | RTT: 167.00 ms | State: connected
+[LOG] Time: 83s | RTT: 167.00 ms | State: connected
+[LOG] Time: 84s | RTT: 145.00 ms | State: connected
+[LOG] Time: 85s | RTT: 145.00 ms | State: connected
+[LOG] Time: 86s | RTT: 146.00 ms | State: connected
+[LOG] Time: 87s | RTT: 146.00 ms | State: connected
+[LOG] Time: 88s | RTT: 146.00 ms | State: connected
+[LOG] Time: 89s | RTT: 152.00 ms | State: connected
+[LOG] Time: 90s | RTT: 152.00 ms | State: connected
+[LOG] Time: 92s | RTT: 124.00 ms | State: connected
+[LOG] Time: 93s | RTT: 124.00 ms | State: connected
+[LOG] Time: 94s | RTT: 124.00 ms | State: connected
+[LOG] Time: 95s | RTT: 161.00 ms | State: connected
+[LOG] Time: 96s | RTT: 161.00 ms | State: connected
+[LOG] Time: 97s | RTT: 115.00 ms | State: connected
+[LOG] Time: 98s | RTT: 115.00 ms | State: connected
+[LOG] Time: 99s | RTT: 133.00 ms | State: connected
+[LOG] Time: 100s | RTT: 133.00 ms | State: connected
+[LOG] Time: 101s | RTT: 133.00 ms | State: connected
+[LOG] Time: 103s | RTT: 128.00 ms | State: connected
+[LOG] Time: 104s | RTT: 128.00 ms | State: connected
+[LOG] Time: 105s | RTT: 141.00 ms | State: connected
+[LOG] Time: 106s | RTT: 141.00 ms | State: connected
+[LOG] Time: 107s | RTT: 141.00 ms | State: connected
+[LOG] Time: 108s | RTT: 162.00 ms | State: connected
+[LOG] Time: 109s | RTT: 162.00 ms | State: connected
+[LOG] Time: 110s | RTT: 154.00 ms | State: connected
+[LOG] Time: 111s | RTT: 154.00 ms | State: connected
+[LOG] Time: 112s | RTT: 154.00 ms | State: connected
+[LOG] Time: 113s | RTT: 139.00 ms | State: connected
+[LOG] Time: 115s | RTT: 139.00 ms | State: connected
+[LOG] Time: 116s | RTT: 160.00 ms | State: connected
+[LOG] Time: 117s | RTT: 160.00 ms | State: connected
+[LOG] Time: 118s | RTT: 160.00 ms | State: connected
+[LOG] Time: 119s | RTT: 218.00 ms | State: connected
+[LOG] Time: 120s | RTT: 218.00 ms | State: connected
+[LOG] Time: 121s | RTT: 117.00 ms | State: connected
+[LOG] Time: 122s | RTT: 117.00 ms | State: connected
+[LOG] Time: 123s | RTT: 117.00 ms | State: connected
+[LOG] Time: 124s | RTT: 200.00 ms | State: connected
+[LOG] Time: 125s | RTT: 200.00 ms | State: connected
+[LOG] Time: 126s | RTT: 195.00 ms | State: connected
+[LOG] Time: 128s | RTT: 195.00 ms | State: connected
+[LOG] Time: 129s | RTT: 190.00 ms | State: connected
+[LOG] Time: 130s | RTT: 190.00 ms | State: connected
+[LOG] Time: 131s | RTT: 190.00 ms | State: connected
+[LOG] Time: 132s | RTT: 140.00 ms | State: connected
+[LOG] Time: 133s | RTT: 140.00 ms | State: connected
+[LOG] Time: 134s | RTT: 258.00 ms | State: connected
+[LOG] Time: 135s | RTT: 258.00 ms | State: connected
+[LOG] Time: 136s | RTT: 258.00 ms | State: connected
+[LOG] Time: 137s | RTT: 250.00 ms | State: connected
+[LOG] Time: 138s | RTT: 250.00 ms | State: connected
+[LOG] Time: 139s | RTT: 300.00 ms | State: connected
+[LOG] Time: 141s | RTT: 300.00 ms | State: connected
+[LOG] Time: 142s | RTT: 300.00 ms | State: connected
+[LOG] Time: 143s | RTT: 119.00 ms | State: connected
+[LOG] Time: 144s | RTT: 119.00 ms | State: connected
+[LOG] Time: 145s | RTT: 137.00 ms | State: connected
+[LOG] Time: 146s | RTT: 137.00 ms | State: connected
+[LOG] Time: 147s | RTT: 137.00 ms | State: connected
+[LOG] Time: 148s | RTT: 285.00 ms | State: connected
+[LOG] Time: 149s | RTT: 285.00 ms | State: connected
+[LOG] Time: 150s | RTT: 154.00 ms | State: connected
+[LOG] Time: 151s | RTT: 154.00 ms | State: connected
+[LOG] Time: 152s | RTT: 215.00 ms | State: connected
+[LOG] Time: 154s | RTT: 215.00 ms | State: connected
+[LOG] Time: 155s | RTT: 215.00 ms | State: connected
+[LOG] Time: 156s | RTT: 248.00 ms | State: connected
+[LOG] Time: 157s | RTT: 248.00 ms | State: connected
+[LOG] Time: 158s | RTT: 133.00 ms | State: connected
+[LOG] Time: 159s | RTT: 133.00 ms | State: connected
+[LOG] Time: 161s | RTT: 140.00 ms | State: connected
+[LOG] Time: 162s | RTT: 140.00 ms | State: connected
+[LOG] Time: 163s | RTT: 187.00 ms | State: connected
+[LOG] Time: 164s | RTT: 187.00 ms | State: connected
+[LOG] Time: 165s | RTT: 187.00 ms | State: connected
+[LOG] Time: 167s | RTT: 218.00 ms | State: connected
+[LOG] Time: 168s | RTT: 218.00 ms | State: connected
+[LOG] Time: 169s | RTT: 140.00 ms | State: connected
+[LOG] Time: 170s | RTT: 140.00 ms | State: connected
+[LOG] Time: 171s | RTT: 154.00 ms | State: connected
+[LOG] Time: 173s | RTT: 154.00 ms | State: connected
+[LOG] Time: 174s | RTT: 160.00 ms | State: connected
+[LOG] Time: 175s | RTT: 160.00 ms | State: connected
+[LOG] Time: 176s | RTT: 162.00 ms | State: connected
+[LOG] Time: 178s | RTT: 162.00 ms | State: connected
+[LOG] Time: 179s | RTT: 162.00 ms | State: connected
+[LOG] Time: 180s | RTT: 167.00 ms | State: connected
+[LOG] Time: 181s | RTT: 167.00 ms | State: connected
+[LOG] Time: 182s | RTT: 145.00 ms | State: connected
+[LOG] Time: 184s | RTT: 145.00 ms | State: connected
+[LOG] Time: 185s | RTT: 147.00 ms | State: connected
+[LOG] Time: 186s | RTT: 147.00 ms | State: connected
+[LOG] Time: 187s | RTT: 133.00 ms | State: connected
+[LOG] Time: 188s | RTT: 133.00 ms | State: connected
+[LOG] Time: 190s | RTT: 164.00 ms | State: connected
+[LOG] Time: 191s | RTT: 164.00 ms | State: connected
+[LOG] Time: 192s | RTT: 164.00 ms | State: connected
+[LOG] Time: 193s | RTT: 147.00 ms | State: connected
+[LOG] Time: 194s | RTT: 147.00 ms | State: connected
+[LOG] Time: 196s | RTT: 243.00 ms | State: connected
+[LOG] Time: 197s | RTT: 243.00 ms | State: connected
+[LOG] Time: 198s | RTT: 115.00 ms | State: connected
+[LOG] Time: 199s | RTT: 115.00 ms | State: connected
+[*] Monitoring finished.
+
+SUCCESS! Remote IP: 48.208.141.46
+[*] Resolving Server Location...
+SUCCESS! Server Location: Boydton, United States (Microsoft Corporation)
+
+[*] Running TCP MTR (Port 443)...
+Start: 2026-02-14T07:26:40+0000
+HOST: 737dd8053562                Loss%   Snt   Last   Avg  Best  Wrst StDev
+  1. AS???    172.17.0.1           0.0%    10    0.2   0.2   0.2   0.2   0.0
+  2. AS???    10.1.0.1             0.0%    10    5.2  39.8   2.1 174.0  54.4
+  3. AS???    100.64.0.1           0.0%    10   20.2  76.6  18.8 160.1  55.4
+  4. AS???    172.16.251.42        0.0%    10   26.7  76.5  23.2 182.1  54.5
+  5. AS???    ???                 100.0    10    0.0   0.0   0.0   0.0   0.0
+  6. AS14593  206.224.72.100       0.0%    10   27.2  65.2  23.6 200.2  63.6
+        206.224.72.104                   
+     AS14593  206.224.72.104
+        206.224.72.98                    
+     AS14593  206.224.72.98
+        206.224.72.96                    
+     AS14593  206.224.72.96
+        206.224.72.106                   
+     AS14593  206.224.72.106
+        206.224.72.102                   
+     AS14593  206.224.72.102
+  7. AS6461   207.245.205.202     60.0%    10   35.4 107.7  35.4 196.5  80.0
+  8. AS6461   64.125.31.255       10.0%    10   41.3  78.9  41.3 152.2  38.2
+        66.163.64.234                    
+     AS6327   66.163.64.234
+  9. AS6327   66.163.72.70        10.0%    10  5172. 3033.  40.5 5172. 2065.6
+        64.125.31.246                    
+     AS6461   64.125.31.246
+ 10. AS8075   104.44.46.121       20.0%    10   50.9  84.3  47.2 132.9  28.3
+ 11. AS???    ???                 100.0    10    0.0   0.0   0.0   0.0   0.0
+ 12. AS8075   104.44.20.177       20.0%    10  118.8 515.4 102.8 1159. 521.8
+        104.44.21.149                    
+     AS8075   104.44.21.149
+        104.44.20.161                    
+     AS8075   104.44.20.161
+        104.44.21.141                    
+     AS8075   104.44.21.141
+ 13. AS8075   51.10.34.11         10.0%    10  110.6  98.8  46.4 169.1  45.5
+        104.44.18.224                    
+     AS8075   104.44.18.224
+        51.10.4.7                        
+     AS8075   51.10.4.7
+        104.44.53.187                    
+     AS8075   104.44.53.187
+        104.44.52.195                    
+     AS8075   104.44.52.195
+ 14. AS8075   104.44.21.141       20.0%    10  1126. 1014.  95.4 5215. 1758.8
+        51.10.32.91                      
+     AS8075   51.10.32.91
+        104.44.21.149                    
+     AS8075   104.44.21.149
+        51.10.44.124                     
+     AS8075   51.10.44.124
+        104.44.18.151                    
+     AS8075   104.44.18.151
+ 15. AS8075   51.10.15.194        10.0%    10  100.1 1023.  84.3 7316. 2382.5
+        51.10.34.13                      
+     AS8075   51.10.34.13
+        51.10.34.11                      
+     AS8075   51.10.34.11
+        51.10.19.210                     
+     AS8075   51.10.19.210
+        51.10.15.192                     
+     AS8075   51.10.15.192
+        51.10.4.155                      
+     AS8075   51.10.4.155
+        104.44.31.203                    
+     AS8075   104.44.31.203
+ 16. AS8075   104.44.18.151       10.0%    10   94.0 464.4  85.9 3150. 1008.0
+        51.10.44.130                     
+     AS8075   51.10.44.130
+        51.10.0.69                       
+     AS8075   51.10.0.69
+        51.10.44.124                     
+     AS8075   51.10.44.124
+        51.10.5.58                       
+     AS8075   51.10.5.58
+ 17. AS8075   104.44.31.203       20.0%    10  4207. 1917. 132.7 4207. 1515.0
+        51.10.36.106                     
+     AS8075   51.10.36.106
+        51.10.36.98                      
+     AS8075   51.10.36.98
+        51.10.19.214                     
+     AS8075   51.10.19.214
+        51.10.5.108                      
+     AS8075   51.10.5.108
+        51.10.5.38                       
+     AS8075   51.10.5.38
+        51.10.19.210                     
+     AS8075   51.10.19.210
+ 18. AS8075   51.10.0.69          10.0%    10  2230. 1600. 102.8 5184. 1618.0
+        51.10.40.20                      
+     AS8075   51.10.40.20
+        51.10.0.63                       
+     AS8075   51.10.0.63
+        51.10.36.208                     
+     AS8075   51.10.36.208
+        51.10.36.154                     
+     AS8075   51.10.36.154
+ 19. AS8075   104.44.52.96        60.0%    10  1193. 895.5 101.1 2183. 1000.6
+        104.44.51.186                    
+     AS8075   104.44.51.186
+ 20. AS8075   51.10.5.52          10.0%    10  2185. 1820.  91.3 5299. 1860.4
+        51.10.5.110                      
+     AS8075   51.10.5.110
+        51.10.36.152                     
+     AS8075   51.10.36.152
+        51.10.36.154                     
+     AS8075   51.10.36.154
+        51.10.36.208                     
+     AS8075   51.10.36.208
+        51.10.5.120                      
+     AS8075   51.10.5.120
+ 21. AS8075   51.10.5.50          60.0%    10  1239. 395.0  93.5 1239. 563.6
+        51.10.5.26                       
+     AS8075   51.10.5.26
+        104.44.51.186                    
+     AS8075   104.44.51.186
+ 22. AS8075   51.10.17.157        80.0%    10  4225. 4227. 4225. 4230.   3.9
+ 23. AS8075   51.10.5.44          50.0%    10   87.3 525.4  87.3 1149. 554.1
+        51.10.5.26                       
+     AS8075   51.10.5.26
+        51.10.5.50                       
+     AS8075   51.10.5.50
+ 24. AS???    ???                 100.0    10    0.0   0.0   0.0   0.0   0.0
+
+[*] Running UDP MTR...
+Start: 2026-02-14T07:27:07+0000
+HOST: 737dd8053562                Loss%   Snt   Last   Avg  Best  Wrst StDev
+  1. AS???    172.17.0.1           0.0%    10    0.1   0.1   0.1   0.2   0.0
+  2. AS???    10.1.0.1             0.0%    10   12.1  22.7   2.7 116.6  34.9
+  3. AS???    100.64.0.1           0.0%    10   23.2  36.5  20.0  74.3  17.6
+  4. AS???    172.16.251.42        0.0%    10  130.0  46.5  17.6 130.0  33.4
+  5. AS14593  206.224.72.118       0.0%    10  112.9  46.1  22.4 112.9  25.7
+        206.224.72.126                   
+     AS14593  206.224.72.126
+        206.224.72.122                   
+     AS14593  206.224.72.122
+  6. AS14593  206.224.72.96        0.0%    10   73.2  49.5  23.0  99.4  26.3
+        206.224.72.98                    
+     AS14593  206.224.72.98
+        206.224.72.104                   
+     AS14593  206.224.72.104
+        206.224.72.108                   
+     AS14593  206.224.72.108
+        206.224.72.100                   
+     AS14593  206.224.72.100
+  7. AS6461   207.245.205.202     60.0%    10   45.7  44.3  29.9  63.9  14.6
+  8. AS6327   66.163.64.234       40.0%    10   67.0  70.2  46.5  98.8  20.0
+        64.125.31.255                    
+     AS6461   64.125.31.255
+  9. AS6327   66.163.72.70        70.0%    10   49.9  54.0  47.0  65.2   9.8
+        64.125.31.246                    
+     AS6461   64.125.31.246
+ 10. AS8075   104.44.46.121       30.0%    10   61.1 152.6  43.9 469.1 159.2
+ 11. AS8075   104.44.55.252       20.0%    10  112.0 140.4  40.6 431.3 131.1
+        51.10.20.99                      
+     AS8075   51.10.20.99
+ 12. AS8075   104.44.44.225       10.0%    10  215.4 168.7  38.6 451.9 121.4
+        104.44.21.149                    
+     AS8075   104.44.21.149
+        104.44.21.141                    
+     AS8075   104.44.21.141
+ 13. AS8075   104.44.53.187        0.0%    10  195.1 166.6  37.4 430.2 109.2
+        51.10.34.29                      
+     AS8075   51.10.34.29
+        51.10.4.7                        
+     AS8075   51.10.4.7
+        104.44.16.85                     
+     AS8075   104.44.16.85
+        104.44.19.45                     
+     AS8075   104.44.19.45
+        51.10.34.13                      
+     AS8075   51.10.34.13
+ 14. AS8075   104.44.21.149       20.0%    10  191.7 225.1 108.4 396.8 114.7
+        51.10.32.91                      
+     AS8075   51.10.32.91
+        104.44.21.141                    
+     AS8075   104.44.21.141
+        51.10.17.151                     
+     AS8075   51.10.17.151
+ 15. AS8075   51.10.34.13         10.0%    10  162.4 180.9  86.8 373.6 104.8
+        104.44.19.45                     
+     AS8075   104.44.19.45
+        51.10.15.192                     
+     AS8075   51.10.15.192
+ 16. AS8075   51.10.9.233         20.0%    10  128.6 187.7 107.5 354.7 104.0
+        51.10.17.151                     
+     AS8075   51.10.17.151
+        51.10.44.124                     
+     AS8075   51.10.44.124
+        51.10.5.86                       
+     AS8075   51.10.5.86
+        104.44.16.160                    
+     AS8075   104.44.16.160
+ 17. AS8075   51.10.19.214        70.0%    10   84.3 163.3  84.3 315.7 132.0
+        51.10.17.252                     
+     AS8075   51.10.17.252
+ 18. AS8075   51.10.0.63          70.0%    10   90.0 218.7  90.0 287.8 111.6
+        51.10.9.233                      
+     AS8075   51.10.9.233
+ 19. AS8075   51.10.1.110         60.0%    10   95.5 197.2  95.5 306.8  94.4
+ 20. AS???    ???                 100.0    10    0.0   0.0   0.0   0.0   0.0
+ 21. AS8075   51.10.5.44          80.0%    10  113.9 105.9  98.0 113.9  11.2
+        51.10.19.16                      
+     AS8075   51.10.19.16
+ 22. AS???    ???                 100.0    10    0.0   0.0   0.0   0.0   0.0
+ 23. AS8075   51.10.5.110         90.0%    10  105.6 105.6 105.6 105.6   0.0
+ 24. AS???    ???                 100.0    10    0.0   0.0   0.0   0.0   0.0

@@ -1,0 +1,159 @@
+Start: 2026-02-14T04:00:31+0000
+HOST: 66b3839129c6                Loss%   Snt   Last   Avg  Best  Wrst StDev
+  1. AS???    172.17.0.1           0.0%    50    0.2   0.2   0.2   0.4   0.0
+  2. AS???    10.1.0.1             0.0%    50    6.1   4.6   1.9  37.6   6.3
+  3. AS???    100.64.0.1           0.0%    50   23.4  27.1  19.0  54.9   8.5
+  4. AS???    172.16.252.142       0.0%    50   23.2  25.9  18.9  44.7   4.9
+  5. AS???    ???                 100.0    50    0.0   0.0   0.0   0.0   0.0
+  6. AS14593  206.224.68.8         0.0%    50   22.9  26.9  18.6  51.3   7.0
+        206.224.68.6                     
+     AS14593  206.224.68.6
+        206.224.68.2                     
+     AS14593  206.224.68.2
+        206.224.68.4                     
+     AS14593  206.224.68.4
+  7. AS???    206.126.239.81       0.0%    50   33.9  28.3  18.5  51.2   8.0
+        206.126.239.82                   
+     AS???    206.126.239.82
+  8. AS???    ???                 100.0    50    0.0   0.0   0.0   0.0   0.0
+  9. AS???    ???                 100.0    50    0.0   0.0   0.0   0.0   0.0
+ 10. AS???    ???                 100.0    50    0.0   0.0   0.0   0.0   0.0
+ 11. AS???    ???                 100.0    50    0.0   0.0   0.0   0.0   0.0
+ 12. AS???    ???                 100.0    50    0.0   0.0   0.0   0.0   0.0
+ 13. AS30103  206.247.99.122       0.0%    50   27.5  28.5  19.0  89.9  10.9
+Start: 2026-02-14T04:01:28+0000
+HOST: 66b3839129c6                Loss%   Snt   Last   Avg  Best  Wrst StDev
+  1. AS???    172.17.0.1           0.0%    50    0.1   0.1   0.1   0.3   0.0
+  2. AS???    10.1.0.1             0.0%    50   13.8   5.4   1.4  28.6   6.5
+  3. AS???    100.64.0.1           0.0%    50   61.5  27.8  18.1  61.5   7.5
+  4. AS???    172.16.252.142       0.0%    50   56.8  26.8  17.4  63.9   9.0
+  5. AS14593  206.224.74.172      16.0%    50  9904. 708.1  18.2 9904. 1710.8
+        206.224.74.164                   
+     AS14593  206.224.74.164
+        206.224.74.168                   
+     AS14593  206.224.74.168
+        206.224.74.160                   
+     AS14593  206.224.74.160
+  6. AS14593  206.224.68.4         0.0%    50   42.9  28.1  19.2  50.6   8.0
+        206.224.68.2                     
+     AS14593  206.224.68.2
+        206.224.68.8                     
+     AS14593  206.224.68.8
+        206.224.68.6                     
+     AS14593  206.224.68.6
+  7. AS???    206.126.239.82      78.0%    50   37.9  30.8  25.8  42.9   5.9
+  8. AS???    ???                 100.0    50    0.0   0.0   0.0   0.0   0.0
+[*] Config Loaded: Name='flight-tor-edm-Zoom', Duration=100s
+[*] Launching Chrome for Zoom...
+[*] Joining URL: [MEETING_LINK_REMOVED]
+[*] Name entered: flight-tor-edm-Zoom
+[*] Inside meeting. Starting monitoring...
+[LOG] Time: 0s | RTT: 23.00 ms
+[LOG] Time: 1s | RTT: 23.00 ms
+[LOG] Time: 2s | RTT: 23.00 ms
+[LOG] Time: 3s | RTT: 27.00 ms
+[LOG] Time: 4s | RTT: 27.00 ms
+[LOG] Time: 5s | RTT: 22.00 ms
+[LOG] Time: 6s | RTT: 22.00 ms
+[LOG] Time: 7s | RTT: 22.00 ms
+[LOG] Time: 8s | RTT: 27.00 ms
+[LOG] Time: 9s | RTT: 27.00 ms
+[LOG] Time: 10s | RTT: 27.00 ms
+[LOG] Time: 11s | RTT: 33.00 ms
+[LOG] Time: 12s | RTT: 33.00 ms
+[LOG] Time: 13s | RTT: 36.00 ms
+[LOG] Time: 14s | RTT: 36.00 ms
+[LOG] Time: 15s | RTT: 36.00 ms
+[LOG] Time: 16s | RTT: 24.00 ms
+[LOG] Time: 17s | RTT: 24.00 ms
+[LOG] Time: 18s | RTT: 24.00 ms
+[LOG] Time: 19s | RTT: 36.00 ms
+[LOG] Time: 20s | RTT: 36.00 ms
+[LOG] Time: 21s | RTT: 36.00 ms
+[LOG] Time: 22s | RTT: 36.00 ms
+[LOG] Time: 23s | RTT: 36.00 ms
+[LOG] Time: 24s | RTT: 25.00 ms
+[LOG] Time: 25s | RTT: 25.00 ms
+[LOG] Time: 26s | RTT: 19.00 ms
+[LOG] Time: 27s | RTT: 19.00 ms
+[LOG] Time: 28s | RTT: 19.00 ms
+[LOG] Time: 29s | RTT: 25.00 ms
+[LOG] Time: 30s | RTT: 25.00 ms
+[LOG] Time: 31s | RTT: 25.00 ms
+[LOG] Time: 32s | RTT: 19.00 ms
+[LOG] Time: 33s | RTT: 19.00 ms
+[LOG] Time: 34s | RTT: 22.00 ms
+[LOG] Time: 35s | RTT: 22.00 ms
+[LOG] Time: 36s | RTT: 22.00 ms
+[LOG] Time: 37s | RTT: 30.00 ms
+[LOG] Time: 38s | RTT: 30.00 ms
+[LOG] Time: 39s | RTT: 30.00 ms
+[LOG] Time: 40s | RTT: 27.00 ms
+[LOG] Time: 41s | RTT: 27.00 ms
+[LOG] Time: 42s | RTT: 22.00 ms
+[LOG] Time: 43s | RTT: 22.00 ms
+[LOG] Time: 44s | RTT: 22.00 ms
+[LOG] Time: 45s | RTT: 31.00 ms
+[LOG] Time: 46s | RTT: 31.00 ms
+[LOG] Time: 47s | RTT: 23.00 ms
+[LOG] Time: 48s | RTT: 23.00 ms
+[LOG] Time: 49s | RTT: 23.00 ms
+[LOG] Time: 50s | RTT: 21.00 ms
+[LOG] Time: 51s | RTT: 21.00 ms
+[LOG] Time: 52s | RTT: 21.00 ms
+[LOG] Time: 53s | RTT: 26.00 ms
+[LOG] Time: 54s | RTT: 26.00 ms
+[LOG] Time: 55s | RTT: 26.00 ms
+[LOG] Time: 56s | RTT: 26.00 ms
+[LOG] Time: 57s | RTT: 26.00 ms
+[LOG] Time: 58s | RTT: 26.00 ms
+[LOG] Time: 59s | RTT: 26.00 ms
+[LOG] Time: 60s | RTT: 18.00 ms
+[LOG] Time: 61s | RTT: 18.00 ms
+[LOG] Time: 62s | RTT: 18.00 ms
+[LOG] Time: 63s | RTT: 25.00 ms
+[LOG] Time: 64s | RTT: 25.00 ms
+[LOG] Time: 65s | RTT: 25.00 ms
+[LOG] Time: 66s | RTT: 18.00 ms
+[LOG] Time: 67s | RTT: 18.00 ms
+[LOG] Time: 68s | RTT: 21.00 ms
+[LOG] Time: 69s | RTT: 21.00 ms
+[LOG] Time: 70s | RTT: 21.00 ms
+[LOG] Time: 71s | RTT: 38.00 ms
+[LOG] Time: 72s | RTT: 38.00 ms
+[LOG] Time: 74s | RTT: 38.00 ms
+[LOG] Time: 75s | RTT: 28.00 ms
+[LOG] Time: 76s | RTT: 28.00 ms
+[LOG] Time: 77s | RTT: 39.00 ms
+[LOG] Time: 78s | RTT: 39.00 ms
+[LOG] Time: 79s | RTT: 39.00 ms
+[LOG] Time: 80s | RTT: 35.00 ms
+[LOG] Time: 81s | RTT: 35.00 ms
+[LOG] Time: 82s | RTT: 24.00 ms
+[LOG] Time: 83s | RTT: 24.00 ms
+[LOG] Time: 84s | RTT: 24.00 ms
+[LOG] Time: 85s | RTT: 20.00 ms
+[LOG] Time: 86s | RTT: 20.00 ms
+[LOG] Time: 87s | RTT: 20.00 ms
+[LOG] Time: 88s | RTT: 25.00 ms
+[LOG] Time: 89s | RTT: 25.00 ms
+[LOG] Time: 90s | RTT: 19.00 ms
+[LOG] Time: 91s | RTT: 19.00 ms
+[LOG] Time: 92s | RTT: 19.00 ms
+[LOG] Time: 93s | RTT: 24.00 ms
+[LOG] Time: 94s | RTT: 24.00 ms
+[LOG] Time: 95s | RTT: 24.00 ms
+[LOG] Time: 96s | RTT: 19.00 ms
+[LOG] Time: 97s | RTT: 19.00 ms
+[LOG] Time: 98s | RTT: 28.00 ms
+[LOG] Time: 99s | RTT: 28.00 ms
+[*] Monitoring finished.
+
+SUCCESS! Remote IP: 206.247.99.122
+[*] Resolving Server Location...
+SUCCESS! Server Location: San Jose, United States (Zoom Video Communications, Inc)
+
+[*] Running TCP MTR (Port 443)...
+
+[*] Running UDP MTR...
+[*] Closing browser...

@@ -1,0 +1,335 @@
+[*] Config Loaded: Name='flight-tor-edm-Teams', Duration=200s
+[*] Launching Chrome for Teams...
+[*] Joining URL: [MEETING_LINK_REMOVED]
+[*] Navigating Join Flow...
+[*] Looking for Join button...
+    [+] JOIN CLICKED!
+[*] Waiting for connection (20s)...
+[*] Starting continuous monitoring for 200 seconds...
+[LOG] Time: 0s | RTT: 204.00 ms | State: connected
+[LOG] Time: 1s | RTT: 204.00 ms | State: connected
+[LOG] Time: 2s | RTT: 185.00 ms | State: connected
+[LOG] Time: 3s | RTT: 185.00 ms | State: connected
+[LOG] Time: 4s | RTT: 210.00 ms | State: connected
+[LOG] Time: 5s | RTT: 210.00 ms | State: connected
+[LOG] Time: 6s | RTT: 210.00 ms | State: connected
+[LOG] Time: 7s | RTT: 343.00 ms | State: connected
+[LOG] Time: 8s | RTT: 343.00 ms | State: connected
+[LOG] Time: 10s | RTT: 174.00 ms | State: connected
+[LOG] Time: 11s | RTT: 174.00 ms | State: connected
+[LOG] Time: 12s | RTT: 170.00 ms | State: connected
+[LOG] Time: 13s | RTT: 170.00 ms | State: connected
+[LOG] Time: 14s | RTT: 170.00 ms | State: connected
+[LOG] Time: 15s | RTT: 176.00 ms | State: connected
+[LOG] Time: 16s | RTT: 176.00 ms | State: connected
+[LOG] Time: 17s | RTT: 172.00 ms | State: connected
+[LOG] Time: 18s | RTT: 172.00 ms | State: connected
+[LOG] Time: 19s | RTT: 172.00 ms | State: connected
+[LOG] Time: 20s | RTT: 183.00 ms | State: connected
+[LOG] Time: 21s | RTT: 183.00 ms | State: connected
+[LOG] Time: 23s | RTT: 159.00 ms | State: connected
+[LOG] Time: 24s | RTT: 159.00 ms | State: connected
+[LOG] Time: 25s | RTT: 169.00 ms | State: connected
+[LOG] Time: 26s | RTT: 169.00 ms | State: connected
+[LOG] Time: 27s | RTT: 169.00 ms | State: connected
+[LOG] Time: 28s | RTT: 210.00 ms | State: connected
+[LOG] Time: 29s | RTT: 210.00 ms | State: connected
+[LOG] Time: 30s | RTT: 192.00 ms | State: connected
+[LOG] Time: 31s | RTT: 192.00 ms | State: connected
+[LOG] Time: 32s | RTT: 192.00 ms | State: connected
+[LOG] Time: 33s | RTT: 204.00 ms | State: connected
+[LOG] Time: 35s | RTT: 204.00 ms | State: connected
+[LOG] Time: 36s | RTT: 185.00 ms | State: connected
+[LOG] Time: 37s | RTT: 185.00 ms | State: connected
+[LOG] Time: 38s | RTT: 185.00 ms | State: connected
+[LOG] Time: 39s | RTT: 204.00 ms | State: connected
+[LOG] Time: 40s | RTT: 204.00 ms | State: connected
+[LOG] Time: 41s | RTT: 207.00 ms | State: connected
+[LOG] Time: 42s | RTT: 207.00 ms | State: connected
+[LOG] Time: 43s | RTT: 177.00 ms | State: connected
+[LOG] Time: 44s | RTT: 177.00 ms | State: connected
+[LOG] Time: 45s | RTT: 177.00 ms | State: connected
+[LOG] Time: 46s | RTT: 160.00 ms | State: connected
+[LOG] Time: 48s | RTT: 160.00 ms | State: connected
+[LOG] Time: 49s | RTT: 186.00 ms | State: connected
+[LOG] Time: 50s | RTT: 186.00 ms | State: connected
+[LOG] Time: 51s | RTT: 186.00 ms | State: connected
+[LOG] Time: 52s | RTT: 224.00 ms | State: connected
+[LOG] Time: 53s | RTT: 224.00 ms | State: connected
+[LOG] Time: 54s | RTT: 211.00 ms | State: connected
+[LOG] Time: 55s | RTT: 211.00 ms | State: connected
+[LOG] Time: 56s | RTT: 211.00 ms | State: connected
+[LOG] Time: 57s | RTT: 182.00 ms | State: connected
+[LOG] Time: 58s | RTT: 182.00 ms | State: connected
+[LOG] Time: 60s | RTT: 186.00 ms | State: connected
+[LOG] Time: 61s | RTT: 186.00 ms | State: connected
+[LOG] Time: 62s | RTT: 186.00 ms | State: connected
+[LOG] Time: 63s | RTT: 219.00 ms | State: connected
+[LOG] Time: 64s | RTT: 219.00 ms | State: connected
+[LOG] Time: 65s | RTT: 218.00 ms | State: connected
+[LOG] Time: 66s | RTT: 218.00 ms | State: connected
+[LOG] Time: 67s | RTT: 232.00 ms | State: connected
+[LOG] Time: 68s | RTT: 232.00 ms | State: connected
+[LOG] Time: 69s | RTT: 232.00 ms | State: connected
+[LOG] Time: 71s | RTT: 213.00 ms | State: connected
+[LOG] Time: 72s | RTT: 213.00 ms | State: connected
+[LOG] Time: 73s | RTT: 213.00 ms | State: connected
+[LOG] Time: 74s | RTT: 213.00 ms | State: connected
+[LOG] Time: 75s | RTT: 213.00 ms | State: connected
+[LOG] Time: 76s | RTT: 213.00 ms | State: connected
+[LOG] Time: 77s | RTT: 213.00 ms | State: connected
+[LOG] Time: 79s | RTT: 196.00 ms | State: connected
+[LOG] Time: 80s | RTT: 196.00 ms | State: connected
+[LOG] Time: 81s | RTT: 190.00 ms | State: connected
+[LOG] Time: 82s | RTT: 190.00 ms | State: connected
+[LOG] Time: 83s | RTT: 217.00 ms | State: connected
+[LOG] Time: 84s | RTT: 217.00 ms | State: connected
+[LOG] Time: 85s | RTT: 217.00 ms | State: connected
+[LOG] Time: 87s | RTT: 217.00 ms | State: connected
+[LOG] Time: 88s | RTT: 217.00 ms | State: connected
+[LOG] Time: 89s | RTT: 211.00 ms | State: connected
+[LOG] Time: 90s | RTT: 211.00 ms | State: connected
+[LOG] Time: 91s | RTT: 211.00 ms | State: connected
+[LOG] Time: 92s | RTT: 215.00 ms | State: connected
+[LOG] Time: 93s | RTT: 215.00 ms | State: connected
+[LOG] Time: 94s | RTT: 224.00 ms | State: connected
+[LOG] Time: 95s | RTT: 224.00 ms | State: connected
+[LOG] Time: 96s | RTT: 224.00 ms | State: connected
+[LOG] Time: 97s | RTT: 190.00 ms | State: connected
+[LOG] Time: 98s | RTT: 190.00 ms | State: connected
+[LOG] Time: 100s | RTT: 198.00 ms | State: connected
+[LOG] Time: 101s | RTT: 198.00 ms | State: connected
+[LOG] Time: 102s | RTT: 180.00 ms | State: connected
+[LOG] Time: 103s | RTT: 180.00 ms | State: connected
+[LOG] Time: 104s | RTT: 180.00 ms | State: connected
+[LOG] Time: 105s | RTT: 215.00 ms | State: connected
+[LOG] Time: 106s | RTT: 215.00 ms | State: connected
+[LOG] Time: 107s | RTT: 212.00 ms | State: connected
+[LOG] Time: 108s | RTT: 212.00 ms | State: connected
+[LOG] Time: 109s | RTT: 212.00 ms | State: connected
+[LOG] Time: 110s | RTT: 190.00 ms | State: connected
+[LOG] Time: 111s | RTT: 190.00 ms | State: connected
+[LOG] Time: 113s | RTT: 202.00 ms | State: connected
+[LOG] Time: 114s | RTT: 202.00 ms | State: connected
+[LOG] Time: 115s | RTT: 202.00 ms | State: connected
+[LOG] Time: 116s | RTT: 162.00 ms | State: connected
+[LOG] Time: 117s | RTT: 162.00 ms | State: connected
+[LOG] Time: 118s | RTT: 216.00 ms | State: connected
+[LOG] Time: 119s | RTT: 216.00 ms | State: connected
+[LOG] Time: 120s | RTT: 216.00 ms | State: connected
+[LOG] Time: 121s | RTT: 209.00 ms | State: connected
+[LOG] Time: 122s | RTT: 209.00 ms | State: connected
+[LOG] Time: 123s | RTT: 240.00 ms | State: connected
+[LOG] Time: 125s | RTT: 240.00 ms | State: connected
+[LOG] Time: 126s | RTT: 244.00 ms | State: connected
+[LOG] Time: 127s | RTT: 244.00 ms | State: connected
+[LOG] Time: 128s | RTT: 244.00 ms | State: connected
+[LOG] Time: 129s | RTT: 177.00 ms | State: connected
+[LOG] Time: 130s | RTT: 177.00 ms | State: connected
+[LOG] Time: 131s | RTT: 185.00 ms | State: connected
+[LOG] Time: 132s | RTT: 185.00 ms | State: connected
+[LOG] Time: 133s | RTT: 185.00 ms | State: connected
+[LOG] Time: 134s | RTT: 178.00 ms | State: connected
+[LOG] Time: 135s | RTT: 178.00 ms | State: connected
+[LOG] Time: 137s | RTT: 171.00 ms | State: connected
+[LOG] Time: 138s | RTT: 171.00 ms | State: connected
+[LOG] Time: 139s | RTT: 171.00 ms | State: connected
+[LOG] Time: 140s | RTT: 167.00 ms | State: connected
+[LOG] Time: 141s | RTT: 167.00 ms | State: connected
+[LOG] Time: 142s | RTT: 195.00 ms | State: connected
+[LOG] Time: 143s | RTT: 195.00 ms | State: connected
+[LOG] Time: 144s | RTT: 195.00 ms | State: connected
+[LOG] Time: 145s | RTT: 226.00 ms | State: connected
+[LOG] Time: 146s | RTT: 226.00 ms | State: connected
+[LOG] Time: 147s | RTT: 222.00 ms | State: connected
+[LOG] Time: 148s | RTT: 222.00 ms | State: connected
+[LOG] Time: 150s | RTT: 209.00 ms | State: connected
+[LOG] Time: 151s | RTT: 209.00 ms | State: connected
+[LOG] Time: 152s | RTT: 209.00 ms | State: connected
+[LOG] Time: 153s | RTT: 236.00 ms | State: connected
+[LOG] Time: 154s | RTT: 236.00 ms | State: connected
+[LOG] Time: 155s | RTT: 169.00 ms | State: connected
+[LOG] Time: 156s | RTT: 169.00 ms | State: connected
+[LOG] Time: 157s | RTT: 169.00 ms | State: connected
+[LOG] Time: 158s | RTT: 262.00 ms | State: connected
+[LOG] Time: 159s | RTT: 262.00 ms | State: connected
+[LOG] Time: 161s | RTT: 172.00 ms | State: connected
+[LOG] Time: 162s | RTT: 172.00 ms | State: connected
+[LOG] Time: 163s | RTT: 172.00 ms | State: connected
+[LOG] Time: 164s | RTT: 230.00 ms | State: connected
+[LOG] Time: 165s | RTT: 230.00 ms | State: connected
+[LOG] Time: 166s | RTT: 180.00 ms | State: connected
+[LOG] Time: 167s | RTT: 180.00 ms | State: connected
+[LOG] Time: 168s | RTT: 223.00 ms | State: connected
+[LOG] Time: 169s | RTT: 223.00 ms | State: connected
+[LOG] Time: 171s | RTT: 223.00 ms | State: connected
+[LOG] Time: 172s | RTT: 206.00 ms | State: connected
+[LOG] Time: 173s | RTT: 206.00 ms | State: connected
+[LOG] Time: 174s | RTT: 259.00 ms | State: connected
+[LOG] Time: 175s | RTT: 259.00 ms | State: connected
+[LOG] Time: 176s | RTT: 188.00 ms | State: connected
+[LOG] Time: 177s | RTT: 188.00 ms | State: connected
+[LOG] Time: 178s | RTT: 188.00 ms | State: connected
+[LOG] Time: 179s | RTT: 228.00 ms | State: connected
+[LOG] Time: 181s | RTT: 228.00 ms | State: connected
+[LOG] Time: 182s | RTT: 229.00 ms | State: connected
+[LOG] Time: 183s | RTT: 229.00 ms | State: connected
+[LOG] Time: 184s | RTT: 206.00 ms | State: connected
+[LOG] Time: 185s | RTT: 206.00 ms | State: connected
+[LOG] Time: 186s | RTT: 206.00 ms | State: connected
+[LOG] Time: 187s | RTT: 188.00 ms | State: connected
+[LOG] Time: 189s | RTT: 188.00 ms | State: connected
+[LOG] Time: 190s | RTT: 209.00 ms | State: connected
+[LOG] Time: 191s | RTT: 209.00 ms | State: connected
+[LOG] Time: 192s | RTT: 197.00 ms | State: connected
+[LOG] Time: 193s | RTT: 197.00 ms | State: connected
+[LOG] Time: 194s | RTT: 197.00 ms | State: connected
+[LOG] Time: 195s | RTT: 195.00 ms | State: connected
+[LOG] Time: 197s | RTT: 195.00 ms | State: connected
+[LOG] Time: 198s | RTT: 213.00 ms | State: connected
+[LOG] Time: 199s | RTT: 213.00 ms | State: connected
+[*] Monitoring finished.
+
+SUCCESS! Remote IP: 48.208.141.46
+[*] Resolving Server Location...
+SUCCESS! Server Location: Boydton, United States (Microsoft Corporation)
+
+[*] Running TCP MTR (Port 443)...
+Start: 2026-02-14T04:24:24+0000
+HOST: d0db6c04a8c7                Loss%   Snt   Last   Avg  Best  Wrst StDev
+  1. AS???    172.17.0.1           0.0%    10    0.2   0.2   0.2   0.3   0.0
+  2. AS???    10.1.0.1             0.0%    10  1040. 140.3   2.3 1040. 322.6
+  3. AS???    100.64.0.1           0.0%    10   20.9  63.7  20.9 298.5  84.6
+  4. AS???    172.16.252.142       0.0%    10   44.6  67.2  25.1 258.1  73.2
+  5. AS???    ???                 100.0    10    0.0   0.0   0.0   0.0   0.0
+  6. AS???    74.245.144.81        0.0%    10   61.7  83.9  19.4 407.9 123.9
+        74.245.144.71                    
+     AS???    74.245.144.71
+        74.245.144.79                    
+     AS???    74.245.144.79
+        74.245.144.69                    
+     AS???    74.245.144.69
+        74.245.144.74                    
+     AS???    74.245.144.74
+        74.245.144.76                    
+     AS???    74.245.144.76
+  7. AS14593  135.129.252.35       0.0%    10   41.7 101.3  26.6 366.6 102.8
+        135.129.252.37                   
+     AS14593  135.129.252.37
+  8. AS8075   104.44.230.172       0.0%    10   78.0  83.8  24.5 332.4  93.5
+        104.44.230.174                   
+     AS8075   104.44.230.174
+        104.44.230.168                   
+     AS8075   104.44.230.168
+        104.44.230.170                   
+     AS8075   104.44.230.170
+        104.44.230.180                   
+     AS8075   104.44.230.180
+  9. AS8075   104.44.32.44         0.0%    10  108.0  81.5  33.8 285.8  76.1
+        104.44.32.40                     
+     AS8075   104.44.32.40
+        104.44.22.211                    
+     AS8075   104.44.22.211
+        104.44.32.42                     
+     AS8075   104.44.32.42
+        104.44.32.34                     
+     AS8075   104.44.32.34
+        104.44.21.235                    
+     AS8075   104.44.21.235
+        104.44.21.223                    
+     AS8075   104.44.21.223
+        104.44.32.32                     
+     AS8075   104.44.32.32
+        104.44.21.209                    
+     AS8075   104.44.21.209
+ 10. AS8075   104.44.31.83        30.0%    10  2137. 1141.  49.6 2137. 608.0
+        104.44.31.79                     
+     AS8075   104.44.31.79
+        104.44.31.81                     
+     AS8075   104.44.31.81
+ 11. AS8075   51.10.24.206        10.0%    10  2096. 1101.  29.4 3250. 1174.4
+        51.10.24.200                     
+     AS8075   51.10.24.200
+        51.10.24.202                     
+     AS8075   51.10.24.202
+        51.10.24.204                     
+     AS8075   51.10.24.204
+ 12. AS8075   51.10.5.58          10.0%    10   30.9 766.1  30.9 3128. 1023.4
+        51.10.5.112                      
+     AS8075   51.10.5.112
+        51.10.5.42                       
+     AS8075   51.10.5.42
+        51.10.5.26                       
+     AS8075   51.10.5.26
+        51.10.5.38                       
+     AS8075   51.10.5.38
+        51.10.5.36                       
+     AS8075   51.10.5.36
+        51.10.5.94                       
+     AS8075   51.10.5.94
+ 13. AS???    ???                 100.0    10    0.0   0.0   0.0   0.0   0.0
+
+[*] Running UDP MTR...
+Start: 2026-02-14T04:24:45+0000
+HOST: d0db6c04a8c7                Loss%   Snt   Last   Avg  Best  Wrst StDev
+  1. AS???    172.17.0.1           0.0%    10    0.1   0.1   0.1   0.2   0.0
+  2. AS???    10.1.0.1            30.0%    10    1.7  91.0   1.7 434.5 161.4
+  3. AS???    100.64.0.1           0.0%    10   30.0  83.3  22.0 448.3 134.0
+  4. AS???    172.16.252.142       0.0%    10   18.1  77.9  18.1 401.9 116.6
+  5. AS14593  206.224.74.172       0.0%    10  3297. 769.5  26.8 3298. 1340.0
+        206.224.74.164                   
+     AS14593  206.224.74.164
+        206.224.74.160                   
+     AS14593  206.224.74.160
+        206.224.74.168                   
+     AS14593  206.224.74.168
+  6. AS???    74.245.144.81        0.0%    10   30.5  61.4  18.2 318.4  91.4
+        74.245.144.74                    
+     AS???    74.245.144.74
+        74.245.144.73                    
+     AS???    74.245.144.73
+        74.245.144.71                    
+     AS???    74.245.144.71
+        74.245.144.76                    
+     AS???    74.245.144.76
+        74.245.144.69                    
+     AS???    74.245.144.69
+  7. AS14593  135.129.252.35       0.0%    10   28.5  76.9  22.7 288.8  83.5
+        135.129.252.37                   
+     AS14593  135.129.252.37
+  8. AS8075   104.44.230.174       0.0%    10   35.6  66.3  20.7 247.0  67.9
+        104.44.230.172                   
+     AS8075   104.44.230.172
+        104.44.230.178                   
+     AS8075   104.44.230.178
+        104.44.230.182                   
+     AS8075   104.44.230.182
+        104.44.230.170                   
+     AS8075   104.44.230.170
+  9. AS8075   104.44.21.217       10.0%    10   34.3  67.5  22.6 205.3  59.2
+        104.44.21.207                    
+     AS8075   104.44.21.207
+        104.44.32.34                     
+     AS8075   104.44.32.34
+        104.44.21.235                    
+     AS8075   104.44.21.235
+        104.44.32.40                     
+     AS8075   104.44.32.40
+        104.44.21.225                    
+     AS8075   104.44.21.225
+        104.44.32.36                     
+     AS8075   104.44.32.36
+ 10. AS???    ???                 100.0    10    0.0   0.0   0.0   0.0   0.0
+ 11. AS8075   51.10.24.206        80.0%    10   33.5  73.2  33.5 112.9  56.2
+        51.10.24.202                     
+     AS8075   51.10.24.202
+ 12. AS8075   51.10.5.86          40.0%    10   68.2  49.7  32.5  87.5  22.8
+        51.10.5.26                       
+     AS8075   51.10.5.26
+        51.10.5.118                      
+     AS8075   51.10.5.118
+        51.10.5.110                      
+     AS8075   51.10.5.110
+        51.10.5.38                       
+     AS8075   51.10.5.38
+ 13. AS???    ???                 100.0    10    0.0   0.0   0.0   0.0   0.0
