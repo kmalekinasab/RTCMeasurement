@@ -1,0 +1,264 @@
+Start: 2026-02-14T14:13:38+0000
+HOST: 7f89c09a72cb                Loss%   Snt   Last   Avg  Best  Wrst StDev
+  1. AS???    172.17.0.1           0.0%    50    0.2   0.2   0.1   0.3   0.0
+  2. AS???    10.1.0.1             0.0%    50   61.7  37.4   1.7 399.8  72.7
+  3. AS???    100.64.0.1           0.0%    50   88.9  53.6  19.1 366.8  60.8
+  4. AS???    172.16.250.40        0.0%    50   36.8  53.5  19.1 307.7  55.3
+  5. AS???    ???                 100.0    50    0.0   0.0   0.0   0.0   0.0
+  6. AS14593  206.224.72.100       0.0%    50  199.7  49.3  20.1 223.1  47.9
+        206.224.72.102                   
+     AS14593  206.224.72.102
+        206.224.72.98                    
+     AS14593  206.224.72.98
+        206.224.72.96                    
+     AS14593  206.224.72.96
+  7. AS6461   207.245.205.202      0.0%    50  143.6  49.4  19.8 174.5  41.2
+  8. AS6461   64.125.31.255        0.0%    50  109.7  67.6  31.2 351.1  56.2
+  9. AS6461   64.125.31.246       40.0%    50  7277. 2060.  55.5 7277. 2334.4
+ 10. AS6461   64.125.23.166       88.0%    50   62.5 1301.  59.7 4148. 1922.9
+ 11. AS???    ???                 100.0    50    0.0   0.0   0.0   0.0   0.0
+ 12. AS6461   64.124.196.98        0.0%    50  177.1 112.5  52.6 521.5  96.4
+ 13. AS???    ???                 100.0    50    0.0   0.0   0.0   0.0   0.0
+ 14. AS???    ???                 100.0    50    0.0   0.0   0.0   0.0   0.0
+ 15. AS???    ???                 100.0    50    0.0   0.0   0.0   0.0   0.0
+ 16. AS???    ???                 100.0    50    0.0   0.0   0.0   0.0   0.0
+ 17. AS30103  144.195.71.36        0.0%    50  192.5  82.0  53.8 245.3  41.8
+Start: 2026-02-14T14:14:37+0000
+HOST: 7f89c09a72cb                Loss%   Snt   Last   Avg  Best  Wrst StDev
+  1. AS???    172.17.0.1           0.0%    50    0.1   0.1   0.1   0.2   0.0
+  2. AS???    10.1.0.1             0.0%    50    5.0  53.2   1.6 406.9  84.2
+  3. AS???    100.64.0.1           0.0%    50   54.4  80.9  21.3 393.0  76.9
+  4. AS???    172.16.250.40        0.0%    50   24.9  75.2  19.7 368.6  78.4
+  5. AS14593  206.224.72.124       2.0%    50   20.3  75.4  20.3 323.6  70.0
+        206.224.72.116                   
+     AS14593  206.224.72.116
+        206.224.72.120                   
+     AS14593  206.224.72.120
+        206.224.72.112                   
+     AS14593  206.224.72.112
+  6. AS14593  206.224.72.102       0.0%    50   29.0  73.3  19.3 282.7  63.4
+        206.224.72.100                   
+     AS14593  206.224.72.100
+        206.224.72.98                    
+     AS14593  206.224.72.98
+        206.224.72.96                    
+     AS14593  206.224.72.96
+  7. AS6461   207.245.205.202      0.0%    50   21.0  71.2  20.1 362.9  67.5
+  8. AS6461   64.125.31.255        0.0%    50   45.6  83.7  30.8 330.8  68.3
+  9. AS6461   64.125.31.246       70.0%    50   56.0 115.4  56.0 309.5  68.7
+ 10. AS6461   64.125.23.166       94.0%    50   64.2 129.4  64.2 255.6 109.4
+ 11. AS???    ???                 100.0    50    0.0   0.0   0.0   0.0   0.0
+ 12. AS6461   64.124.196.98       54.0%    50  115.5 120.1  56.9 310.9  65.8
+ 13. AS???    ???                 100.0    50    0.0   0.0   0.0   0.0   0.0
+[*] Config Loaded: Name='flight-edm-vic-Zoom', Duration=200s
+[*] Launching Chrome for Zoom...
+[*] Joining URL: [MEETING_LINK_REMOVED]
+[*] Name entered: flight-edm-vic-Zoom
+[*] Inside meeting. Starting monitoring...
+[LOG] Time: 0s | RTT: 52.00 ms
+[LOG] Time: 1s | RTT: 52.00 ms
+[LOG] Time: 2s | RTT: 53.00 ms
+[LOG] Time: 3s | RTT: 53.00 ms
+[LOG] Time: 4s | RTT: 52.00 ms
+[LOG] Time: 5s | RTT: 52.00 ms
+[LOG] Time: 6s | RTT: 52.00 ms
+[LOG] Time: 7s | RTT: 62.00 ms
+[LOG] Time: 8s | RTT: 62.00 ms
+[LOG] Time: 9s | RTT: 55.00 ms
+[LOG] Time: 10s | RTT: 55.00 ms
+[LOG] Time: 11s | RTT: 55.00 ms
+[LOG] Time: 12s | RTT: 63.00 ms
+[LOG] Time: 13s | RTT: 63.00 ms
+[LOG] Time: 14s | RTT: 63.00 ms
+[LOG] Time: 15s | RTT: 53.00 ms
+[LOG] Time: 16s | RTT: 53.00 ms
+[LOG] Time: 17s | RTT: 55.00 ms
+[LOG] Time: 18s | RTT: 55.00 ms
+[LOG] Time: 19s | RTT: 55.00 ms
+[LOG] Time: 20s | RTT: 56.00 ms
+[LOG] Time: 21s | RTT: 56.00 ms
+[LOG] Time: 22s | RTT: 56.00 ms
+[LOG] Time: 23s | RTT: 52.00 ms
+[LOG] Time: 24s | RTT: 52.00 ms
+[LOG] Time: 25s | RTT: 54.00 ms
+[LOG] Time: 26s | RTT: 54.00 ms
+[LOG] Time: 27s | RTT: 54.00 ms
+[LOG] Time: 28s | RTT: 53.00 ms
+[LOG] Time: 29s | RTT: 53.00 ms
+[LOG] Time: 30s | RTT: 53.00 ms
+[LOG] Time: 31s | RTT: 53.00 ms
+[LOG] Time: 32s | RTT: 53.00 ms
+[LOG] Time: 33s | RTT: 57.00 ms
+[LOG] Time: 34s | RTT: 57.00 ms
+[LOG] Time: 35s | RTT: 57.00 ms
+[LOG] Time: 36s | RTT: 61.00 ms
+[LOG] Time: 37s | RTT: 61.00 ms
+[LOG] Time: 38s | RTT: 52.00 ms
+[LOG] Time: 39s | RTT: 52.00 ms
+[LOG] Time: 40s | RTT: 52.00 ms
+[LOG] Time: 41s | RTT: 57.00 ms
+[LOG] Time: 42s | RTT: 57.00 ms
+[LOG] Time: 43s | RTT: 57.00 ms
+[LOG] Time: 44s | RTT: 60.00 ms
+[LOG] Time: 45s | RTT: 60.00 ms
+[LOG] Time: 46s | RTT: 58.00 ms
+[LOG] Time: 47s | RTT: 58.00 ms
+[LOG] Time: 48s | RTT: 58.00 ms
+[LOG] Time: 49s | RTT: 223.00 ms
+[LOG] Time: 50s | RTT: 223.00 ms
+[LOG] Time: 51s | RTT: 56.00 ms
+[LOG] Time: 52s | RTT: 56.00 ms
+[LOG] Time: 53s | RTT: 56.00 ms
+[LOG] Time: 54s | RTT: 62.00 ms
+[LOG] Time: 55s | RTT: 62.00 ms
+[LOG] Time: 56s | RTT: 62.00 ms
+[LOG] Time: 57s | RTT: 68.00 ms
+[LOG] Time: 58s | RTT: 68.00 ms
+[LOG] Time: 59s | RTT: 62.00 ms
+[LOG] Time: 60s | RTT: 62.00 ms
+[LOG] Time: 61s | RTT: 62.00 ms
+[LOG] Time: 62s | RTT: 60.00 ms
+[LOG] Time: 64s | RTT: 60.00 ms
+[LOG] Time: 65s | RTT: 70.00 ms
+[LOG] Time: 66s | RTT: 70.00 ms
+[LOG] Time: 67s | RTT: 70.00 ms
+[LOG] Time: 68s | RTT: 74.00 ms
+[LOG] Time: 69s | RTT: 74.00 ms
+[LOG] Time: 70s | RTT: 74.00 ms
+[LOG] Time: 71s | RTT: 199.00 ms
+[LOG] Time: 72s | RTT: 199.00 ms
+[LOG] Time: 73s | RTT: 57.00 ms
+[LOG] Time: 74s | RTT: 57.00 ms
+[LOG] Time: 75s | RTT: 57.00 ms
+[LOG] Time: 76s | RTT: 59.00 ms
+[LOG] Time: 77s | RTT: 59.00 ms
+[LOG] Time: 78s | RTT: 56.00 ms
+[LOG] Time: 79s | RTT: 56.00 ms
+[LOG] Time: 80s | RTT: 56.00 ms
+[LOG] Time: 81s | RTT: 55.00 ms
+[LOG] Time: 82s | RTT: 55.00 ms
+[LOG] Time: 83s | RTT: 55.00 ms
+[LOG] Time: 84s | RTT: 113.00 ms
+[LOG] Time: 85s | RTT: 113.00 ms
+[LOG] Time: 86s | RTT: 55.00 ms
+[LOG] Time: 87s | RTT: 55.00 ms
+[LOG] Time: 88s | RTT: 55.00 ms
+[LOG] Time: 89s | RTT: 57.00 ms
+[LOG] Time: 90s | RTT: 57.00 ms
+[LOG] Time: 91s | RTT: 66.00 ms
+[LOG] Time: 92s | RTT: 66.00 ms
+[LOG] Time: 93s | RTT: 66.00 ms
+[LOG] Time: 94s | RTT: 59.00 ms
+[LOG] Time: 95s | RTT: 59.00 ms
+[LOG] Time: 96s | RTT: 59.00 ms
+[LOG] Time: 97s | RTT: 51.00 ms
+[LOG] Time: 98s | RTT: 51.00 ms
+[LOG] Time: 99s | RTT: 50.00 ms
+[LOG] Time: 100s | RTT: 50.00 ms
+[LOG] Time: 101s | RTT: 50.00 ms
+[LOG] Time: 102s | RTT: 55.00 ms
+[LOG] Time: 103s | RTT: 55.00 ms
+[LOG] Time: 104s | RTT: 55.00 ms
+[LOG] Time: 105s | RTT: 243.00 ms
+[LOG] Time: 106s | RTT: 243.00 ms
+[LOG] Time: 107s | RTT: 54.00 ms
+[LOG] Time: 108s | RTT: 54.00 ms
+[LOG] Time: 109s | RTT: 54.00 ms
+[LOG] Time: 110s | RTT: 66.00 ms
+[LOG] Time: 111s | RTT: 66.00 ms
+[LOG] Time: 112s | RTT: 55.00 ms
+[LOG] Time: 113s | RTT: 55.00 ms
+[LOG] Time: 114s | RTT: 55.00 ms
+[LOG] Time: 115s | RTT: 52.00 ms
+[LOG] Time: 116s | RTT: 52.00 ms
+[LOG] Time: 117s | RTT: 52.00 ms
+[LOG] Time: 118s | RTT: 60.00 ms
+[LOG] Time: 119s | RTT: 60.00 ms
+[LOG] Time: 120s | RTT: 57.00 ms
+[LOG] Time: 121s | RTT: 57.00 ms
+[LOG] Time: 122s | RTT: 57.00 ms
+[LOG] Time: 123s | RTT: 53.00 ms
+[LOG] Time: 124s | RTT: 53.00 ms
+[LOG] Time: 125s | RTT: 53.00 ms
+[LOG] Time: 126s | RTT: 64.00 ms
+[LOG] Time: 127s | RTT: 64.00 ms
+[LOG] Time: 128s | RTT: 51.00 ms
+[LOG] Time: 130s | RTT: 51.00 ms
+[LOG] Time: 131s | RTT: 51.00 ms
+[LOG] Time: 132s | RTT: 62.00 ms
+[LOG] Time: 133s | RTT: 62.00 ms
+[LOG] Time: 134s | RTT: 55.00 ms
+[LOG] Time: 135s | RTT: 55.00 ms
+[LOG] Time: 136s | RTT: 55.00 ms
+[LOG] Time: 137s | RTT: 61.00 ms
+[LOG] Time: 138s | RTT: 61.00 ms
+[LOG] Time: 139s | RTT: 61.00 ms
+[LOG] Time: 140s | RTT: 55.00 ms
+[LOG] Time: 141s | RTT: 55.00 ms
+[LOG] Time: 142s | RTT: 59.00 ms
+[LOG] Time: 143s | RTT: 59.00 ms
+[LOG] Time: 144s | RTT: 59.00 ms
+[LOG] Time: 145s | RTT: 55.00 ms
+[LOG] Time: 146s | RTT: 55.00 ms
+[LOG] Time: 147s | RTT: 55.00 ms
+[LOG] Time: 148s | RTT: 50.00 ms
+[LOG] Time: 149s | RTT: 50.00 ms
+[LOG] Time: 150s | RTT: 53.00 ms
+[LOG] Time: 151s | RTT: 53.00 ms
+[LOG] Time: 152s | RTT: 53.00 ms
+[LOG] Time: 153s | RTT: 58.00 ms
+[LOG] Time: 154s | RTT: 58.00 ms
+[LOG] Time: 155s | RTT: 58.00 ms
+[LOG] Time: 156s | RTT: 58.00 ms
+[LOG] Time: 157s | RTT: 58.00 ms
+[LOG] Time: 158s | RTT: 57.00 ms
+[LOG] Time: 159s | RTT: 57.00 ms
+[LOG] Time: 160s | RTT: 57.00 ms
+[LOG] Time: 161s | RTT: 65.00 ms
+[LOG] Time: 162s | RTT: 65.00 ms
+[LOG] Time: 163s | RTT: 59.00 ms
+[LOG] Time: 164s | RTT: 59.00 ms
+[LOG] Time: 165s | RTT: 59.00 ms
+[LOG] Time: 166s | RTT: 57.00 ms
+[LOG] Time: 167s | RTT: 57.00 ms
+[LOG] Time: 168s | RTT: 57.00 ms
+[LOG] Time: 169s | RTT: 55.00 ms
+[LOG] Time: 170s | RTT: 55.00 ms
+[LOG] Time: 171s | RTT: 54.00 ms
+[LOG] Time: 172s | RTT: 54.00 ms
+[LOG] Time: 173s | RTT: 54.00 ms
+[LOG] Time: 174s | RTT: 65.00 ms
+[LOG] Time: 175s | RTT: 65.00 ms
+[LOG] Time: 176s | RTT: 55.00 ms
+[LOG] Time: 177s | RTT: 55.00 ms
+[LOG] Time: 178s | RTT: 55.00 ms
+[LOG] Time: 179s | RTT: 58.00 ms
+[LOG] Time: 180s | RTT: 58.00 ms
+[LOG] Time: 181s | RTT: 58.00 ms
+[LOG] Time: 182s | RTT: 62.00 ms
+[LOG] Time: 183s | RTT: 62.00 ms
+[LOG] Time: 184s | RTT: 55.00 ms
+[LOG] Time: 185s | RTT: 55.00 ms
+[LOG] Time: 186s | RTT: 55.00 ms
+[LOG] Time: 187s | RTT: 61.00 ms
+[LOG] Time: 188s | RTT: 61.00 ms
+[LOG] Time: 189s | RTT: 60.00 ms
+[LOG] Time: 190s | RTT: 60.00 ms
+[LOG] Time: 191s | RTT: 60.00 ms
+[LOG] Time: 192s | RTT: 72.00 ms
+[LOG] Time: 193s | RTT: 72.00 ms
+[LOG] Time: 194s | RTT: 72.00 ms
+[LOG] Time: 195s | RTT: 56.00 ms
+[LOG] Time: 196s | RTT: 56.00 ms
+[LOG] Time: 197s | RTT: 57.00 ms
+[LOG] Time: 199s | RTT: 57.00 ms
+[*] Monitoring finished.
+
+SUCCESS! Remote IP: 144.195.71.36
+[*] Resolving Server Location...
+SUCCESS! Server Location: San Jose, United States (Zoom Video Communications, Inc)
+
+[*] Running TCP MTR (Port 443)...
+
+[*] Running UDP MTR...
+[*] Closing browser...
