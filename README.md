@@ -1,6 +1,6 @@
 # RTCMeasurement
 
-This repository contains datasets collected for measuring real-time communication (RTC) performance over Starlink and related network environments. The measurements are organized into two main categories: in-flight measurements and stationary node measurements.
+This repository contains datasets collected for measuring real-time communication (RTC) performance over Starlink. The measurements are organized into two main categories: in-flight measurements and stationary node measurements.
 
 ## Dataset Overview
 
